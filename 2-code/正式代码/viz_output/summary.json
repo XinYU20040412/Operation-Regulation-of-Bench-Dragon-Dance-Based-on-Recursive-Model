@@ -1,0 +1,42 @@
+{
+  "scan_range": [
+    412.0,
+    414.0
+  ],
+  "dt": 0.02,
+  "frames_scanned": 25,
+  "collision_found": true,
+  "first_collision_time": 412.47999999999956,
+  "collision_pair": [
+    0,
+    8
+  ],
+  "output_files": {
+    "timeline_png": "collision_timeline.png",
+    "frame_png": "collision_frame.png",
+    "gif": "dragon_motion.gif",
+    "cover_png": "collision_cover.png",
+    "dashboard_html": "collision_dashboard.html",
+    "metrics_csv": "collision_metrics.csv"
+  },
+  "timing_sec": {
+    "timeline": 0.1423,
+    "frame": 0.2068,
+    "gif": 5.1535,
+    "total_export": 6.6112,
+    "scan": 0.4446
+  },
+  "cache_stats": {
+    "head_cache_size": 25,
+    "handles_cache_size": 25
+  },
+  "docs": {
+    "created": [],
+    "skipped": [
+      "E:\\湖南大学\\项目\\参赛项目原代码（undemo）\\2024国赛参赛\\README.md",
+      "E:\\湖南大学\\项目\\参赛项目原代码（undemo）\\2024国赛参赛\\1-paper\\README.md",
+      "E:\\湖南大学\\项目\\参赛项目原代码（undemo）\\2024国赛参赛\\2-code\\README.md",
+      "E:\\湖南大学\\项目\\参赛项目原代码（undemo）\\2024国赛参赛\\图片\\README.md"
+    ]
+  }
+}
